@@ -1,0 +1,21 @@
+leftnav:
+- identifier: 1e822e79-f8ad-393a-65d2-bc2bde15b5be
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 89742e5f-c70b-3c41-f458-3f08edc9475d
+  name: Lecture Notes
+  pageRef: /pages/lecture-notes
+  weight: 20
+- identifier: 86ee0ee8-648a-ee4b-de44-6a198c9c577f
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 30
+- identifier: ac228e39-7861-a99a-3b6f-cc36b6324310
+  name: Projects
+  pageRef: /pages/projects
+  weight: 40
+- identifier: c7f56353-f332-55e1-6f0f-490c3f6af210
+  name: Tools
+  pageRef: /pages/tools
+  weight: 50
