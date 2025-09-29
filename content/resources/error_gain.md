@@ -4,6 +4,8 @@ description: Error Gain Spreadsheet
 file: /courses/2-75-precision-machine-design-fall-2001/58b4d7080539724bec956b517652e60f_error_gain.xls
 file_size: 349184
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

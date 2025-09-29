@@ -4,6 +4,8 @@ description: Bolted rail on elastic foundation
 file: /courses/2-75-precision-machine-design-fall-2001/f60804676b2c0321b08a737666eb072d_railfnd.xls
 file_size: 5615
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

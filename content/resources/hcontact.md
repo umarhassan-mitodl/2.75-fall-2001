@@ -4,6 +4,8 @@ description: Determine Hertz Contact Stresses
 file: /courses/2-75-precision-machine-design-fall-2001/fff0cbe3b03b2bdee3474075a5b81a9f_hcontact.xls
 file_size: 18944
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

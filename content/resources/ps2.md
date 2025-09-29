@@ -4,6 +4,8 @@ description: Homework assignment.
 file: /courses/2-75-precision-machine-design-fall-2001/dc81fc1ca8810c664f7d67c1c45bdbd4_ps2.pdf
 file_size: 98579
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,6 +4,8 @@ description: ''
 file: /courses/2-75-precision-machine-design-fall-2001/9eafe041e6185376105623be9441a8cb_Image1inConstraint_Lecture_Part_I.jpg
 file_size: 74882
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

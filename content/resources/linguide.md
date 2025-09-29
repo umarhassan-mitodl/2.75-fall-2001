@@ -4,6 +4,8 @@ description: Design of linear guides
 file: /courses/2-75-precision-machine-design-fall-2001/b3b81199c6d8c01802473a3f15f31a99_linguide.xls
 file_size: 24576
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

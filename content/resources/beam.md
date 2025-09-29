@@ -5,6 +5,8 @@ description: Determine slope, bending, and shear deflections of a simply support
 file: /courses/2-75-precision-machine-design-fall-2001/57ee5f36fa780848e00f8e6018ed37f8_beam.xls
 file_size: 34937
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

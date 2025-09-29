@@ -4,6 +4,8 @@ description: Determine thermal errors in a bi-material beam
 file: /courses/2-75-precision-machine-design-fall-2001/7f6ffcc2eac85dbde089b3002c04e0b6_bimat.xls
 file_size: 13299
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

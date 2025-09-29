@@ -4,6 +4,8 @@ description: Bolted rail design
 file: /courses/2-75-precision-machine-design-fall-2001/e5bcb93d9017a90d82b3b043333b6f1e_boltdes.xls
 file_size: 6932
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

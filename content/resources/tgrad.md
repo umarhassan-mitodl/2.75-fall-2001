@@ -4,6 +4,8 @@ description: Determine thermal errors in a simply supported beam
 file: /courses/2-75-precision-machine-design-fall-2001/bbd592ca6448dc907b2b2ddc6e9037cf_tgrad.xls
 file_size: 11894
 file_type: application/octet-stream
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Tools
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

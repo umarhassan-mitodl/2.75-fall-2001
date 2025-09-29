@@ -4,6 +4,8 @@ description: CONSTRAINT LECTURE
 file: /courses/2-75-precision-machine-design-fall-2001/962f560f763715a81e775af536b5e3f8_constraint_lecture_part_I.pdf
 file_size: 2477174
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
